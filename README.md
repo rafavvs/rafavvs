@@ -1,7 +1,7 @@
 ## Olá, eu sou Rafael Vasconcelos 👋
- 🎓 Aluno de ciência da computação
- 💻 Programador
- 🌱 Atualmente estou aprendendo tudo
+ 🎓 Aluno de ciência da computação  \
+ 💻 Programador  \
+ 🌱 Atualmente estou aprendendo tudo  \
  
  ## Conecte-se comigo!
 [<img align="left" alt="{{Rafael}} | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]({{https://www.linkedin.com/in/rafael-vasconcelos-ba7a3a367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bn3tCbJr0QdOF5e8Xg2WOlg%3D%3D}})
