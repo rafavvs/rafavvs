@@ -1,7 +1,7 @@
 ## Olá, eu sou Rafael Vasconcelos 👋
  🎓 Aluno de ciência da computação  \
  💻 Programador  \
- 🌱 Atualmente estou aprendendo tudo  
+ 🌱 Aprendendo coisas novas!  
  
  ## Conecte-se comigo!
 [<img align="left" alt="Dhanushka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
