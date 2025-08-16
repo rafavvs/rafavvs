@@ -17,7 +17,7 @@
 <br />
 
 [instagram]: https://www.instagram.com/rafa_vvs/
-[linkedin]: https://www.linkedin.com/in/rafaelvasconcelos/
+[linkedin]: https://www.linkedin.com/in/rafael-vasconcelos-ba7a3a367/
 
 <!--
 **rafavvs/rafavvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
