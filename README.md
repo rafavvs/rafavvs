@@ -5,7 +5,7 @@
  
  ## Conecte-se comigo!
 [<img align="left" alt="{{Rafael}} | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]({{https://www.linkedin.com/in/rafael-vasconcelos-ba7a3a367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bn3tCbJr0QdOF5e8Xg2WOlg%3D%3D}})
-[<img align="left" alt="{{Rafael}} | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]({{https://www.instagram.com/rafa_vvs?igsh=Y2pmcmExeGE3eTBu&utm_source=qr}})  \
+[<img align="left" alt="{{Rafael}} | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]({{https://www.instagram.com/rafa_vvs?igsh=Y2pmcmExeGE3eTBu&utm_source=qr}})    \
   
 ## Linguagens
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
